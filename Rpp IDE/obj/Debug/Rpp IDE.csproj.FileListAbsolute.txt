@@ -1,0 +1,10 @@
+C:\root\Programming\C#\Rpp IDE\Rpp IDE\bin\Debug\Rpp IDE.exe
+C:\root\Programming\C#\Rpp IDE\Rpp IDE\bin\Debug\Rpp IDE.pdb
+C:\root\Programming\C#\Rpp IDE\Rpp IDE\obj\Debug\ResolveAssemblyReference.cache
+C:\root\Programming\C#\Rpp IDE\Rpp IDE\obj\Debug\Rpp_IDE.Form1.resources
+C:\root\Programming\C#\Rpp IDE\Rpp IDE\obj\Debug\Rpp_IDE.Properties.Resources.resources
+C:\root\Programming\C#\Rpp IDE\Rpp IDE\obj\Debug\Rpp IDE.csproj.GenerateResource.Cache
+C:\root\Programming\C#\Rpp IDE\Rpp IDE\obj\Debug\Rpp IDE.exe
+C:\root\Programming\C#\Rpp IDE\Rpp IDE\obj\Debug\Rpp IDE.pdb
+C:\root\Programming\C#\Rpp IDE\Rpp IDE\bin\Debug\RppLibrary.dll
+C:\root\Programming\C#\Rpp IDE\Rpp IDE\bin\Debug\RppLibrary.pdb
